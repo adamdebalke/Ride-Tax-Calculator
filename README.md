@@ -1,5 +1,5 @@
-Car Rental Income Calculator App (Flutter/Dart)
-Car Rental Income Calculator
+Ride Tax Calculator App (Flutter/Dart)
+
 
 The Car Rental Income Calculator App is a mobile application developed using the Dart programming language and the Flutter framework. It is a simple tool designed to help car rental business owners in Ethiopia estimate their yearly income based on the Ethiopian government's tax laws. This application takes into account various factors such as rental rates, number of rental days, and applicable tax rates to provide an accurate estimation of the yearly income.
 
@@ -17,14 +17,14 @@ Installation
 Clone the repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/your-username/car-rental-income-calculator.git
+git clone https://github.com/https://github.com/adamdebalke/Ride-Tax-Calculator.git/
 Ensure you have Flutter and Dart installed on your system. If not, follow the official Flutter installation guide: Flutter Install Guide
 
 Navigate to the project directory:
 
 bash
 Copy code
-cd car-rental-income-calculator
+cdRide-Tax-Calculator
 Install the required dependencies:
 bash
 Copy code
@@ -46,4 +46,4 @@ Before making a contribution, kindly review our Contributing Guidelines to ensur
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the codebase as per the terms of this license.
 
-Thank you for using the Car Rental Income Calculator App! If you have any questions or need further assistance, please don't hesitate to reach out to us via the issue tracker or contact details provided in the repository. Happy renting!
+Thank you for using the Ride Tax Calculator App! If you have any questions or need further assistance, please don't hesitate to reach out to us via the issue tracker or contact details provided in the repository. Happy renting!
